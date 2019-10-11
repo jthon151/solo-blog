@@ -10,6 +10,7 @@ liuxinlin
 
 ### 最新
 
+* [Hadoop01-入门&集群环境搭建](https://www.liuxinlin.top/articles/2019/10/11/1570791720719.html)
 * [我在 GitHub 上的开源项目](https://www.liuxinlin.top/my-github-repos)
 * [盒子科技笔试题-数据分析岗](https://www.liuxinlin.top/articles/2019/10/09/1570624988503.html)
 * [机器学习面试考点](https://www.liuxinlin.top/articles/2019/10/08/1570541737111.html)
